@@ -12,15 +12,15 @@ You can sign up for a Flutterwave account at [https://flutterwave.com](https://f
 - Ip Check
 
 ### Requirements
-- > PHP 5.5.3
-- mcrypt
+- > PHP 7.1
+
 
 ### Installation
 
 Add flutterwave to your `composer.json` file
 ```
 "require": {
-  "flutterwave/flutterwave-php": "dev-master"
+  "wapnen/flutterwave-php": "dev-master"
 }
 ```
 
