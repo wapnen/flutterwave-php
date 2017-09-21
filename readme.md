@@ -20,7 +20,7 @@ You can sign up for a Flutterwave account at [https://flutterwave.com](https://f
 Add flutterwave to your `composer.json` file
 ```
 "require": {
-  "wapnen/flutterwave-php": "dev-master"
+  "flutterwave/flutterwave-php": "dev-master"
 }
 ```
 
